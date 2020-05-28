@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>How to create url shortener using Laravel? - ItSolutionStuff.com</title>
+    <title>create url shortener using Laravel</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" />
 </head>
 <body>
    
 <div class="container">
-    <h1>How to create url shortener using Laravel? - ItSolutionStuff.com</h1>
+    <h1>create url shortener using Laravel</h1>
    
     <div class="card">
       <div class="card-header">
